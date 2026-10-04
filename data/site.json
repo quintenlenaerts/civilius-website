@@ -1,0 +1,101 @@
+{
+  "site": {
+    "name": "Civilius",
+    "tagline": "Indie game studio",
+    "description": "© 2026 Civilius. All rights reserved.",
+    "logo": "assets/brand/civilius-big.png",
+    "copyright": "",
+    "socials": {
+      "steam": "https://store.steampowered.com/",
+      "discord": "https://discord.com/"
+    }
+  },
+  "navigation": [
+    { "label": "Games", "url": "games.html" },
+    { "label": "About", "url": "about.html" },
+    { "label": "Contact", "url": "contact.html" }
+  ],
+  "landing": {
+    "featuredGame": "swimsuit-zombies"
+  },
+  "about": {
+    "title": "About Civilius",
+    "intro": "CIVILIUS is a new indie game studio based in Belgium.",
+    "paragraphs": [
+    ],
+    "facts": [
+      { "label": "Studio", "value": "Civilius" },
+      { "label": "Location", "value": "Belgium" },
+      { "label": "Focus", "value": "Independent games" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "For business, press or general questions, use the addresses below.",
+    "items": [
+      {
+        "label": "General / Business",
+        "value": "contact@civilius.com",
+        "href": "mailto:contact@civilius.com"
+      },
+      {
+        "label": "Support",
+        "value": "support@civilius.com",
+        "href": "mailto:support@civilius.com"
+      }
+    ]
+  },
+  "games": [
+    {
+      "id": "swimsuit-zombies",
+      "title": "SWIMSUIT ZOMBIES",
+      "status": "Coming soon",
+      "shortDescription": "Gear up and prepare! Battle against endless waves of zombies wearing swimsuits. Upgrade your weapons and complete challenges to increase your odds of survival. Claim victory over the beachgoers by successfully defeating all rituals scattered throughout the maps!",
+      "description": [
+        "SWIMSUIT ZOMBIES is the first game made and released by CIVILIUS! The goal is simple: battle through hordes of endless zombies wearing their finest beach clothing!",
+        "Careful management of points, upgrades and in-game buys will be needed to successfully complete all the maps!."
+      ],
+      "steamUrl": "https://store.steampowered.com/",
+      "trailerUrl": "",
+      "logo": "assets/games/swimsuit-zombies/logo.png",
+      "landingVideo": "assets/games/swimsuit-zombies/gameplay.mp4",
+      "landingPoster": "assets/games/swimsuit-zombies/empty_still.png",
+
+      "heroImage": "assets/games/swimsuit-zombies/hero.png",
+
+
+      "cardImage": "assets/games/swimsuit-zombies/header-card.png",
+      "steamCardImage": "assets/games/swimsuit-zombies/header-card.png",
+      "screenshots": [
+        "assets/games/swimsuit-zombies/screenshots/01.png",
+        "assets/games/swimsuit-zombies/screenshots/02.png",
+        "assets/games/swimsuit-zombies/screenshots/03.png",
+        "assets/games/swimsuit-zombies/screenshots/04.png"
+      ],
+      "storeMeta": [
+        { "label": "Genre", "value": "Horde Shooter" },
+        { "label": "Developer", "value": "CIVILIUS" },
+        { "label": "Status", "value": "Coming soon" }
+      ]
+    }
+  ],
+  "footer": {
+    "columns": [
+      {
+        "title": "Civilius",
+        "links": [
+          { "label": "Games", "url": "games.html" },
+          { "label": "About", "url": "about.html" },
+          { "label": "Contact", "url": "contact.html" }
+        ]
+      },
+      {
+        "title": "External",
+        "links": [
+          { "label": "Steam", "url": "https://store.steampowered.com/" },
+          { "label": "Discord", "url": "https://discord.com/" }
+        ]
+      }
+    ]
+  }
+}
