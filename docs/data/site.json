@@ -6,7 +6,7 @@
     "logo": "assets/brand/civilius-big.png",
     "copyright": "",
     "socials": {
-      "steam": "https://store.steampowered.com/",
+      "steam": "https://store.steampowered.com/app/5337850/SWIMSUIT_ZOMBIES",
       "discord": "https://discord.gg/kkbFwyJQQ"
     }
   },
@@ -55,8 +55,8 @@
         "SWIMSUIT ZOMBIES is the first game made and released by CIVILIUS! The goal is simple: battle through hordes of endless zombies wearing their finest beach clothing!",
         "Careful management of points, upgrades and in-game buys will be needed to successfully complete all the maps!."
       ],
-      "steamUrl": "https://store.steampowered.com/",
-      "trailerUrl": "",
+      "steamUrl": "https://store.steampowered.com/app/5337850/SWIMSUIT_ZOMBIES",
+      "trailerUrl": "https://www.youtube.com/watch?v=KvqvocCuXuo",
       "logo": "assets/games/swimsuit-zombies/logo.png",
       "landingVideo": "assets/games/swimsuit-zombies/gameplay.mp4",
       "landingPoster": "assets/games/swimsuit-zombies/empty_still.png",
@@ -92,7 +92,7 @@
       {
         "title": "External",
         "links": [
-          { "label": "Steam", "url": "https://store.steampowered.com/" },
+          { "label": "Steam", "url": "https://store.steampowered.com/app/5337850/SWIMSUIT_ZOMBIES" },
           { "label": "Discord", "url": "https://discord.com/" }
         ]
       }
